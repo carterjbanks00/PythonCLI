@@ -47,7 +47,7 @@ Created functions which accomplish the following:
 1. Loop through every page for a given group and save the group member IDs as an XML file
 2. Extract Steam IDs from those XML files and save them to a single .txt file
 3. Save the .txt file locally
-See README_finalproject.md for more information on fetcher.py, the file I used for API calls
+See README.md for more information on fetcher.py, the file I used for API calls
 
 ## For Data Source 2:
 Used the web API above along with an API key that I signed up for in conjunction with the Steam IDs from Data Source 1
